@@ -1,0 +1,1 @@
+# Macedonian_Stock_Predictor
